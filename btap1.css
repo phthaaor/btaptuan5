@@ -1,0 +1,26 @@
+.box1{
+    width: 100px;
+    height: 100px;
+    background-color: rgb(255, 106, 0);
+    border-width: 5px;
+    border-style: solid;
+    border-color: black ;
+}
+.box2{
+    width: 100px;
+    height: 100px;
+    margin-left: 110px;
+    background-color: rgb(255, 106, 0);
+    border-width: 5px;
+    border-style: solid;
+    border-color: rgb(11, 11, 99);
+}
+.box3{
+    width: 100px;
+    height: 100px;
+    margin-left: 220px;
+    background-color: rgb(255, 106, 0);
+    border-width: 5px;
+    border-style: solid;
+    border-color: rgb(151, 217, 65) ;
+}

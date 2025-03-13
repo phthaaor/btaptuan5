@@ -1,0 +1,31 @@
+.box {
+    width: 350px;
+    background-color: white;
+    box-shadow: 5px 5px 10px rgba(7, 5, 5, 0.2);
+    overflow: hidden;
+    margin-bottom: 20px;
+}
+
+.header {
+    background-color: #00e5ff;
+    color: white;
+    text-align: center;
+    font-size: 22px;
+    font-weight: bold;
+    padding: 15px 0;
+}
+
+.content {
+    padding: 15px;
+}
+
+.content h3 {
+    font-weight: bold;
+    margin-bottom: 10px;
+}
+
+.content p {
+    font-size: 14px;
+    line-height: 1.5;
+    color: #333;
+}
